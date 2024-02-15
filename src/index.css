@@ -16,9 +16,16 @@ div.card{
   align-items: center;
 }
 
-div.contentCard{
+div.contentCardtrue{
   align-items: center;
   text-align: center;
+  background-color: green;
+}
+
+div.contentCardfalse{
+  align-items: center;
+  text-align: center;
+  background-color: red;
 }
 
 img{
